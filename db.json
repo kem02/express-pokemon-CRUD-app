@@ -1,0 +1,28 @@
+{
+  "pokemons": [
+    {
+      "level": 5,
+      "name": "pikachu"
+    },
+    {
+      "level": 100,
+      "name": "mew"
+    },
+    {
+      "level": 50,
+      "name": "snorlax"
+    },
+    {
+      "level": 30,
+      "name": "regice"
+    },
+    {
+      "level": 70,
+      "name": "rayquaza"
+    },
+    {
+      "level": 60,
+      "name": "pichu"
+    }
+  ]
+}
